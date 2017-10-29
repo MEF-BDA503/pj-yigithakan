@@ -6,7 +6,7 @@
 
 + @Udacity/R Basics: I watched until "Explore many variables", but I couldn't go through the problem sets yet.
 
-+ @Group Project: Our group is called "error". Haki, Þule, Özge and I will work together in our group project.
++ @Group Project: Our group is called "error". Haki, Sule, Ozge and I will work together in our group project.
 
 ## Week 2 (Oct 10)
 
