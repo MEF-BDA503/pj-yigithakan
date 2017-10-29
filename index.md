@@ -2,13 +2,11 @@
 
 ## Week 3 (Oct 24)
 
-+ Last week I did my homework, but couldn't create a github webpage, now it works!
++ [Here](files/power_generation.html) is my analysis for HW2 about electricity generation. I will put more analysis when I have time.
 
-+ @HW2: I will find a dataset and analyse it on this weekend, I was quite busy with my work lately.
++ @Udacity/R Basics: I watched until "Explore many variables", but I couldn't go through the problem sets yet.
 
-+ @Udacity/R Basics: I watched until "Explore two variables", but I couldn't go through the problem set.
-
-+ @Group Project: I don't have a group yet, if there are some people like me in the class, we can make a group!
++ @Group Project: Our group is called "error". Haki, Þule, Özge and I will work together in our group project.
 
 ## Week 2 (Oct 10)
 
