@@ -2,7 +2,7 @@
 
 ## Week 3 (Oct 24)
 
-+ [Here](files/power_generation.html) is my analysis for HW2 about electricity generation. I will put more analysis when I have time.
++ [Here](files/power_generation1.html) is my analysis for HW2 about electricity generation. I will put more analysis when I have time.
 
 + @Udacity/R Basics: I watched until "Explore many variables", but I couldn't go through the problem sets yet.
 
