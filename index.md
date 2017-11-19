@@ -4,7 +4,7 @@
 
 + [Here](files/power_generation1.html) is my analysis for HW2 about electricity generation. I will put more analysis when I have time.
 
-+ @Udacity/R Basics: I watched until "Explore many variables", but I couldn't go through the problem sets yet.
++ @Udacity: I finished "Data Analysis with R" course, but I couldn't go through the problem sets yet.
 
 + @Group Project: Our group is called "error". Haki, Sule, Ozge and I will work together in our group project.
 
