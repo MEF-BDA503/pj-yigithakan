@@ -1,5 +1,9 @@
 # Example Progress Journal
 
+## Week 5 (Nov 21)
+
++[Here](files/part1.html) is first part of Assignment 1
+
 ## Week 3 (Oct 24)
 
 + [Here](files/power_generation1.html) is my analysis for HW2 about electricity generation. I will put more analysis when I have time.
