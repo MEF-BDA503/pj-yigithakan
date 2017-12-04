@@ -2,6 +2,7 @@
 
 ## Week 5 (Nov 21)
 
++ [Here](files/survey.html) is second part of Assignment 1
 + [Here](files/part1.html) is first part of Assignment 1
 
 ## Week 3 (Oct 24)
