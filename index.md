@@ -1,5 +1,10 @@
 # Example Progress Journal
 
++ [Here](files/final_hakan.html) is final exam of the course
+
+## Final exam
+
+
 ## Week 5 (Nov 21)
 
 + [Here](files/survey.html) is second part of Assignment 1
