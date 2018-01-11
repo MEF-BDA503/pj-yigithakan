@@ -1,9 +1,7 @@
 # Example Progress Journal
 
-+ [Here](files/final_hakan.html) is final exam of the course
-
 ## Final exam
-
++ [Here](files/final_hakan.html) is final exam of the course
 
 ## Week 5 (Nov 21)
 
